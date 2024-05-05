@@ -12,3 +12,4 @@
 
 ```bash
 python linebot.py
+![image](https://github.com/jaimyliu/Digital-Twin/assets/158254278/ebf3708c-b3da-40d0-906a-176b18d43501)
